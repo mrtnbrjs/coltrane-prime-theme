@@ -22,6 +22,9 @@ Sigue estos pasos para integrar el theme en tu proyecto Angular:
     git clone https://github.com/tu-usuario/tu-repositorio.git
 
     ```
+2. **Agregar carpeta del theme en el tu proyecto primeNg:**
+    En tu proyecto primeNg existe una carpeta en node_modules/primeng/resources/themes
+    
 Estilos
 -------
 
@@ -31,7 +34,7 @@ Los estilos del tema y del núcleo son archivos CSS necesarios para los componen
 
 ```javascript
 
-... "styles": [     "node_modules/primeng/resources/themes/lara-light-blue/theme.css",     "node_modules/primeng/resources/primeng.min.css",     ... ]
+... "styles": [     "node_modules/primeng/resources/themes/coltrane-prime-theme/theme.css",     "node_modules/primeng/resources/primeng.min.css",     ... ]
 ```
 
 ### Con styles.css
@@ -41,7 +44,8 @@ En el archivo `styles.css`, añade las siguientes líneas:
 cssCopy code
 
 ```css
-@import "primeng/resources/themes/lara-light-blue/theme.css"; @import "primeng/resources/primeng.css";
+@import "primeng/resources/themes/coltrane-prime-theme/theme.css";
+@import "primeng/resources/primeng.css";
 
 ```
 
