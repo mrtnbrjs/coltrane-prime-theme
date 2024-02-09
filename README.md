@@ -17,10 +17,11 @@ Sigue estos pasos para integrar el theme en tu proyecto Angular:
 
 1.  **Clona el Repositorio:**
     
-    bashCopy code
+    ```javascript
     
     `git clone https://github.com/tu-usuario/tu-repositorio.git`
 
+    ```
 Estilos
 -------
 
