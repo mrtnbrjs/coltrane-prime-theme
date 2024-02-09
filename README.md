@@ -1,4 +1,4 @@
-# coltrane-prime-theme 🏀🏀🏀
+# coltrane-prime-theme 🏀
 
 Funcionalidades Principales 🏀
 ---------------------------
