@@ -1,6 +1,6 @@
-# coltrane-prime-theme
+# coltrane-prime-theme 🏀🏀🏀
 
-Funcionalidades Principales
+Funcionalidades Principales 🏀
 ---------------------------
 
 *   **Theme Personalizado:** Incluye estilos y componentes diseñados para mejorar la apariencia y la experiencia del usuario en aplicaciones web.
@@ -10,7 +10,7 @@ Funcionalidades Principales
 *   **Fácil Integración:** Los desarrolladores pueden clonar este repositorio y seguir las instrucciones sencillas para incorporar el theme en sus proyectos existentes.
 
 
-Instalación
+Instalación 🏀
 -----------
 
 Sigue estos pasos para integrar el theme en tu proyecto Angular:
@@ -25,19 +25,19 @@ Sigue estos pasos para integrar el theme en tu proyecto Angular:
 2. **Agregar carpeta del theme en el tu proyecto primeNg:**
     En tu proyecto primeNg existe una carpeta en node_modules/primeng/resources/themes
     
-Estilos
+Estilos 🏀
 -------
 
 Los estilos del tema y del núcleo son archivos CSS necesarios para los componentes. Consulta la sección de Temas para ver la lista completa de temas disponibles y elegir el adecuado. Los estilos pueden importarse en el archivo angular.json o en el archivo src/styles.css.
 
-### Con angular.json
+### Con angular.json 🏀
 
 ```javascript
 
 ... "styles": [     "node_modules/primeng/resources/themes/coltrane-prime-theme/theme.css",     "node_modules/primeng/resources/primeng.min.css",     ... ]
 ```
 
-### Con styles.css
+### Con styles.css 🏀
 
 En el archivo `styles.css`, añade las siguientes líneas:
 
@@ -51,12 +51,12 @@ cssCopy code
 
 Estas instrucciones te indican cómo importar los archivos CSS necesarios para el tema y los estilos principales de los componentes. Asegúrate de seguir estos pasos para integrar correctamente los estilos en tu proyecto Angular.
 
-Uso
+Uso 🏀
 ---
 
 Cada componente puede importarse individualmente para que solo incluyas lo que necesitas. La ruta de importación está disponible en la documentación del componente correspondiente.
 
-### Ejemplo de Importación
+### Ejemplo de Importación 🏀
 
 Para importar el módulo `ButtonModule` en tu archivo de componente o módulo en Angular, añade la siguiente línea:
 
