@@ -19,7 +19,7 @@ Sigue estos pasos para integrar el theme en tu proyecto Angular:
     
     ```javascript
     
-    `git clone https://github.com/tu-usuario/tu-repositorio.git`
+    git clone https://github.com/tu-usuario/tu-repositorio.git
 
     ```
 Estilos
@@ -29,9 +29,10 @@ Los estilos del tema y del núcleo son archivos CSS necesarios para los componen
 
 ### Con angular.json
 
-jsonCopy code
+```javascript
 
-`... "styles": [     "node_modules/primeng/resources/themes/lara-light-blue/theme.css",     "node_modules/primeng/resources/primeng.min.css",     ... ]`
+... "styles": [     "node_modules/primeng/resources/themes/lara-light-blue/theme.css",     "node_modules/primeng/resources/primeng.min.css",     ... ]
+```
 
 ### Con styles.css
 
@@ -39,7 +40,10 @@ En el archivo `styles.css`, añade las siguientes líneas:
 
 cssCopy code
 
-`@import "primeng/resources/themes/lara-light-blue/theme.css"; @import "primeng/resources/primeng.css";`
+```css
+@import "primeng/resources/themes/lara-light-blue/theme.css"; @import "primeng/resources/primeng.css";
+
+```
 
 Estas instrucciones te indican cómo importar los archivos CSS necesarios para el tema y los estilos principales de los componentes. Asegúrate de seguir estos pasos para integrar correctamente los estilos en tu proyecto Angular.
 
@@ -52,8 +56,10 @@ Cada componente puede importarse individualmente para que solo incluyas lo que n
 
 Para importar el módulo `ButtonModule` en tu archivo de componente o módulo en Angular, añade la siguiente línea:
 
-typescriptCopy code
+```javascript
 
-`import { ButtonModule } from 'primeng/button';`
+import { ButtonModule } from 'primeng/button';
+
+```
 
 Este es solo un ejemplo, y puedes realizar importaciones similares para otros componentes según tus necesidades específicas. Consulta la documentación del componente correspondiente para obtener información detallada sobre las rutas de importación y cómo utilizar cada componente de manera efectiva en tu proyecto.
