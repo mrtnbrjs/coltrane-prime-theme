@@ -19,7 +19,7 @@ Sigue estos pasos para integrar el theme en tu proyecto Angular:
     
     ```javascript
     
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/mrtnbrjs/coltrane-prime-theme.git
 
     ```
 2. **Agregar carpeta del theme en el tu proyecto primeNg:**
