@@ -10,9 +10,9 @@ Dentro del universo de los sistemas de diseño, Coltrane se destaca como una sin
 
 Los tokens de diseño son los átomos de un sistema de diseño, representando los bloques de construcción esenciales como colores, tipografía y espaciado. Los tokens de diseño de Coltrane encapsulan la esencia de tu marca, asegurando un lenguaje visual consistente en todas las aplicaciones.
 
-Explora los Tokens de Diseño Coltrane: [[Tokens de Diseño Coltrane](https://coppel-design.com/index.html#coltrane)](#https://coltrane.design/)
+Explora los Tokens de Diseño Coltrane: [[Tokens de Diseño Coltrane]([https://coppel-design.com/index.html#coltrane](https://coltrane.design/))]
 
-Para una exploración más profunda, visita nuestra plataforma integral de Diseño Coppel: [[Diseño Coppel](https://coppel-design.com/index.html#coltrane)](#https://coppel-design.com/index.html#coltrane)
+Para una exploración más profunda, visita nuestra plataforma integral de Diseño Coppel: [[Diseño Coppel](https://coppel-design.com/index.html#)]
 
 Funcionalidades Principales 🏀
 ---------------------------
