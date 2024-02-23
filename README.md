@@ -4,7 +4,7 @@
 
 ## Descripción General
 
-Dentro del universo de los sistemas de diseño, Coltrane se destaca como una sinfonía de tokens de diseño meticulosamente creados, armonizando esquemas de color, espaciado y tipografía. Este repositorio muestra cómo estos tokens de diseño se integran perfectamente en PrimeNG, transformándolo en un lienzo pintado con la estética corporativa.
+Dentro del universo de los sistemas de diseño, Coltrane.css se destaca como una sinfonía de tokens de diseño meticulosamente creados, armonizando esquemas de color, espaciado y tipografía. Este repositorio muestra cómo estos tokens de diseño se integran perfectamente en PrimeNG, transformándolo en un lienzo pintado con la estética corporativa.
 
 ## 🌈 ¿Qué son los Tokens de Diseño?
 
