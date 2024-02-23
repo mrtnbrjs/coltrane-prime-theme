@@ -1,7 +1,5 @@
 # coltrane-prime-theme 🏀
 
-**# Tokens de Diseño para el Tema Coltrane en PrimeNG**
-
 ¡Bienvenido al repositorio del tema Coltrane para PrimeNG! 🚀
 
 ## Descripción General
